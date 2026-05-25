@@ -2,7 +2,7 @@ As a competitive swimmer (National medallist, Olympic Trial qualifier), I always
 ways to improve. I started digging into data to better understand the sport (e.g. how top
 olympians progress from a young age, what splits you need to hit certain times, etc). Eager to
 develop these skills further, I studied Information and Computer Engineering at Cambridge,
-where my masters thesis was on extracting information from noisy observations of physical
+where my [masters thesis](https://github.com/yanndivet/masters-piml-project) was on extracting information from noisy observations of physical
 systems.
 
 Through studying financial mathematics at El Karoui and various trading challenges, I got drawn into finance, where the same idea applies:
