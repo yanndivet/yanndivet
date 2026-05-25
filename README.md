@@ -1,16 +1,12 @@
-## Hi there 👋
+As a competitive swimmer (National medallist, Olympic Trial qualifier), I always looked for
+ways to improve. I started digging into data to better understand the sport (e.g. how top
+olympians progress from a young age, what splits you need to hit certain times, etc). Eager to
+develop these skills further, I studied Information and Computer Engineering at Cambridge,
+where my masters thesis was on extracting information from noisy observations of physical
+systems.
 
-<!--
-**yanndivet/yanndivet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Through various trading challenges, I got drawn into finance, where the same idea applies:
+using data and my quantitative skills to understand how markets really work. This GitHub
+covers projects ranging from physics-informed machine learning to algorithmic trading. If
+you want to talk more about those topics, feel free to reach out at
+yad22@cantab.ac.uk.
