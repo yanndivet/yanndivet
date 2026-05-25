@@ -5,8 +5,11 @@ develop these skills further, I studied Information and Computer Engineering at 
 where my [masters thesis](https://github.com/yanndivet/masters-piml-project) was on extracting information from noisy observations of physical
 systems.
 
-Through studying financial mathematics at El Karoui and various trading challenges, I got drawn into finance, where the same idea applies:
-using data and my quantitative skills to understand how markets really work. This GitHub
-covers projects ranging from physics-informed machine learning to algorithmic trading. If
-you want to talk more about those topics, feel free to reach out at
+Through various internships and trading challenges, I got drawn into finance, where the same
+idea applies: using data and my quantitative skills to understand how markets really work. I
+then consolidated my mathematical and financial skills at the El Karoui Master (Probability
+& Finance @ École Polytechnique & Sorbonne University).
+
+This GitHub covers projects ranging from physics-informed machine learning to algorithmic
+trading. If you want to talk more about those topics, feel free to reach out at
 yad22@cantab.ac.uk.
