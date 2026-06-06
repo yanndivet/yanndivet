@@ -7,7 +7,7 @@ systems.
 
 Through various internships and trading challenges, I got drawn into finance, where the same
 idea applies: using data and my quantitative skills to understand how markets really work. I
-then consolidated my mathematical and financial skills at the El Karoui Master (Probability
+then consolidated my mathematical and financial skills at the [El Karoui Master](https://finance.math.upmc.fr/) (Probability
 & Finance @ École Polytechnique & Sorbonne University).
 
 This GitHub covers projects ranging from physics-informed machine learning to algorithmic
